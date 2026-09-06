@@ -38,7 +38,7 @@ For proof of concept, integration with the UTD Course Book API for historical te
 4. Survey & Observation Completion KPI  
    A. Survey Completion Rate  
    B. Missing Observation Count  
-5. Executive Dashboard Metrics
+5. Executive Dashboard Metrics  
    A. Faculty due for evaluation – breakdown based on hire-level  
    B. Unmatched faculty report  
    C. Outstanding Observation Report  
