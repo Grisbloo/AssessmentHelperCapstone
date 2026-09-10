@@ -10,7 +10,7 @@ Success rate for identifying faculty members due for evaluation
 
 **Calculation** 
 
-KPI = Correct Eligibility Decisions/ Total Eligibility Decisions x 100
+KPI = Correct Eligibility Decisions/ Total Eligibility Decisions x 100  
 Correct Eligibility Decisions = ?
 **Required Data**
 
