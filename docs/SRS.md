@@ -18,6 +18,7 @@
 
 ### 1.3 Definitions and References
 
+[Teacher Q&A](Q_A.docx)
 ## 2. Overall Description
 
 ### 2.1 Product Perspective
