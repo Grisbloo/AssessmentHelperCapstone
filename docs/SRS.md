@@ -6,6 +6,16 @@
 
 ### 1.2 Scope
 
+- Manage faculty profiles
+- Retrieve course and teaching history
+- Determine which faculty members are due for evaluation
+- Faculty member observation matching based on course level and experience
+- Customizeable assessment and observation workflows
+- Track participation of both parties, including a sign-off
+- Retrievability of the documented observation
+- Provide dashboards, reports, KPI metrics for the evaluation process
+- Lousely coupled integration with public API's
+
 ### 1.3 Definitions and References
 
 ## 2. Overall Description
