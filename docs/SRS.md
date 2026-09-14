@@ -37,6 +37,15 @@
 
 ### 3.1 User Interfaces
 
+- Login
+- Dashboard
+- Faculty profile
+- Evaluation page
+- Observer matching
+- Observation history
+- Observation signup
+  
+
 ### 3.2 Software Interfaces
 
 ### 3.3 Communication Interfaces
@@ -60,7 +69,11 @@
 ### 5.1 Performance
 
 ### 5.2 Security and Privacy
-
+- Authenticate faculty members before accessing data
+- Only the evaluated member and the observer can see the assessments besides a department head with priviledge
+- Keep names and identities fake
+  
+  
 ### 5.3 Reliability
 
 ### 5.4 Usability
