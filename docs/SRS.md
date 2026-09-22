@@ -48,6 +48,13 @@
 
 ### 3.2 Software Interfaces
 
+**Nadhif Mahmood**
+
+`POST /api/match-observers`
+
+Request: faculty_id, course_id
+Response: list of up to 5 observers, each with observer_id, name, and school
+
 ### 3.3 Communication Interfaces
 
 ## 4. System Features
@@ -58,7 +65,30 @@
 
 ### 4.3 Workflow and Scheduling
 
+**Nadhif Mahmood**
+
+- Assistant professors are evaluated every year, once in Spring and once in Fall
+- Associate and full professors are evaluated every 2 years
+- Frequency is configurable per professor to handle promotions or role changes
+- First semester professors are not evaluated
+- No evaluations are scheduled during summer
+- Faculty selects a course/section to be observed for
+- The system generates a list of eligible observers
+- Faculty coordinates and confirms a date with a selected observer
+- Observer completes the observation form during the session
+- Observee confirms the observation occurred through the system
+
 ### 4.4 Matching and Recommendations
+
+**Nadhif Mahmood**
+
+- Courses are categorized by level using the most significant digit (1000, 2000, 3000, 4000)
+- An eligible observer must be in the same school as the observee, not just the same department
+- The observer must have taught a course at that level within the past 2 years
+- The observee is excluded from their own match list
+- The system returns up to 5 matching observers
+- If more than 5 qualify, 5 are selected at random
+
 
 ### 4.5 Dashboard and Reporting
 
