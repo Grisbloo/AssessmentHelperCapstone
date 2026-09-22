@@ -120,7 +120,7 @@ Response: list of up to 5 observers, each with observer_id, name, and school
 
 #### Faculty Evaluation KPI
 
-** Two Components** 
+**Two Components** 
 ##### a.Evaluation Eligibility Accuracy
 - not the same prof
 - not the same level prof from another department
@@ -133,8 +133,8 @@ Eligibility Accuracy = Correct matches / Total matches Generated
 Should be shown as percentage on dashboard so AC and other admins can reflect and analyze accordingly
 
 ##### b. Overdue Evaluation Count
-**Assistants profs: once every calendar year
-**Associate/Full profs: Once every 2 calendar years
+**Assistants profs:** once every calendar year
+**Associate/Full profs:** Once every 2 calendar years
 
 Profs are put in the evaluation cycle in the same semester type as the previous evaluation cycle, ie. Assistant prof eval done in spring 2026, so spring 2027 they are due for eval. In Fall 2027 they are overdue
 
