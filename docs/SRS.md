@@ -144,6 +144,29 @@ Overdue Eval Count = Number of profs due for eval in previous semester who did n
 
 Shown as number to show how many professors are behind, or to see if there is issue. Can retrieve more information to see which of these are currently signed in the evaluation cycle. Can also show amount of completed evaluations to get a reference of how successful participation is. 
 
+
+
+#### Assessment Participation KPI
+
+**Two Components**
+
+###### a. Assessment Participation Rate
+How many profs who were due for an evaluation signed up for the current eval cycle. 
+
+**Formula**
+Assessment Participation Rate = Number of profs who signed up/ Number of total profs due for an eval
+
+Should show on AC/admin dashboard to see current participation rate. Can detect whether marketing, notifying methods are working
+
+###### b. Observer Utilization rate
+Shows how effectively the observer pool is being used 
+
+**Formula**
+Observer Utilizatoin arte = Number of profs who served as an observer/ Number of profs currently signed up
+
+Shoown as percentage in AC/admin dashboard. Can analyze observer participation and matching process
+
+
 ### 6.3 Testing and Acceptance Criteria
 
 ### 6.4 Open Questions and TODOs
