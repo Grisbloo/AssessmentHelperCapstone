@@ -12,7 +12,17 @@
 - View the submitted evaluation report
 - Sign off on the submitted evaluation report
 
+### Observer
 
+**Goals**
+
+-   Get put in a pool of other observed faculty members based on course level and department
+-   Be notified when a faculty member wants me to observe their class
+-   See all observation requests and accept up to three of them
+-   Reference my scheduled classes to coordinate an evaluation date
+-   Review and download the evaluation document
+-   Upload the signed evaluation document during after the observation
+-   Reflect on the assessment helper process
 
 ## 2. User Stories
 
@@ -46,3 +56,25 @@
 - As a faculty member, I want to see information about my selected observer so I know who will be conducting my evaluation.
 
 - As a faculty member, I want to see my evaluation history so I can review previous evaluations.
+
+
+
+### Observer
+
+- As an observer, I want to be placed into a pool with other eligible observers based on course level and department so that I can be selected along with other eligible faculty members.
+  
+- As a faculty observer, I want to be notified when a faculty member requests that I observe their class so that I can observe their class so that I can respond to the request promptly.
+
+- As a faculty observer, I want to view all available observation requests so that I can decide which observations I am able to complete.
+
+- As a faculty observer, I want to accept up to tthree observation requests so that I am not overwhelemed
+
+- As a faculty member, I want to reference my scheduled classes and predetermined scheduling conflicts when coordinating an observation date so that the observation does not conflict with my existing teaching schedule.
+
+- As a faculty observer, I want to review the evaluation document before the observation so that I understand the criteria I will be assessing
+
+- As a faculty observer, I want to download the evaluation document so that I can complete and sign it as part of the observation process
+
+- As a faculty observer, I wan tto upload the signed evaluation document after completing the observation so that the evaluation can be recorded and submitted
+
+- As a faculty observer, I want to provide feedback about my experience with the assessment helper process so that the system can be improved for future faculty members. 
